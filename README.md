@@ -1,6 +1,17 @@
-### Hi there 👋
+### Hello!
 
-- I’m currently working on an automated [trading program](https://github.com/Neubauer-A/CoinBot) for the Kraken exchange.
-- I’m currently learning more about [curiosity algorithms](https://news.mit.edu/2020/automating-search-entirely-new-curiosity-algorithms-0428).
-- I’m looking to collaborate on anything that puts software development in contact with philosophy, art, finance, or strategy games.
-- Talk to me about Twin Peaks theories or how to solve niche problems in TensorFlow.
+I'm Alex Neubauer, an aspiring data analyst who began falling in love with data as an amateur Go player. As the skill of the game's AI grew to superhuman levels, I felt the need to discover how exactly that was possible and to see if I could make something similar. That led me down the rabbit hole of machine learning and data analytics where I've enjoyed applying the new things that I learn each day, especially to other subjects I'm fascinated by: art, philosophy, markets, and healthcare. 
+
+Currently, I'm focused on an automated [trading program](https://github.com/Neubauer-A/CoinBot) for the Kraken exchange. This includes some pieces that may be of interest to others on a standalone basis as well: 
+- A data set of tweets about bitcoin that have been hand-labeled for sentiment. 
+- A script to finetune a BERT model for sentiment analysis of bitcoin tweets.
+- A Twitter scraper that uses twint to get recent tweets about bitcoin.
+- An interface for bots to interact with Kraken's REST API.
+- A working TF-Agents environment for reinforcement learning that ties in all of the above.
+- A growing data set for the TF-Agents environment that can be used to bootstrap new reinforcement agents.
+
+My final goals for this project are to make a pretrained Q-learning agent publicly available and add detailed documentation on the use of each of the above. In the future, especially if there's interest from others, I'll add options for different exchanges and trading strategies.
+
+Other long-term projects include collaborating with [Nick Henry](https://github.com/fractivore) both in creating an application for rule variations in Go, and in creating GANs that turn visual art into music and vice versa.
+
+![](https://github.com/Neubauer-A/GAN/blob/main/CAN/images/JRFlowers.jpg)
