@@ -11,7 +11,3 @@ Currently, I'm focused on an automated [trading program](https://github.com/Neub
 - A growing data set for the TF-Agents environment that can be used to bootstrap new reinforcement agents.
 
 My final goals for this project are to make a pretrained Q-learning agent publicly available and add detailed documentation on the use of each of the above. In the future, especially if there's interest from others, I'll add options for different exchanges and trading strategies.
-
-Other long-term projects include collaborating with [Nick Henry](https://github.com/fractivore) both in creating an application for rule variations in Go, and in creating GANs that turn visual art into music and vice versa.
-
-![](https://github.com/Neubauer-A/GAN/blob/main/CAN/images/JRFlowers.jpg)
